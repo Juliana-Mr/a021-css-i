@@ -1,0 +1,30 @@
+.bloco{
+    color: white;
+    background-color: black;
+    margin: 25px 0;
+    
+}
+
+#bloco-1{
+    background-color: orange;
+    border: 1px solid orangered
+}
+
+#bloco-2{
+    background-color: olivedrab;
+    border: 1px solid olive
+}
+
+#bloco-3{
+    background-color: darkgreen;
+    border: 5px dotted greenyellow;
+}
+
+#bloco-4{
+    background-color:red;
+    border: 5px dotted rgb(251, 87, 87);
+}
+
+main{
+    font-family: Helvetica;
+}
